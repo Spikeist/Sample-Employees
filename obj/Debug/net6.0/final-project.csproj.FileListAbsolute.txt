@@ -1,0 +1,15 @@
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\final-project.csproj.AssemblyReference.cache
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\final-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\final-project.AssemblyInfoInputs.cache
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\final-project.AssemblyInfo.cs
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\final-project.csproj.CoreCompileInputs.cache
+D:\Bethel Tech\csharp-course\final-project\bin\Debug\net6.0\final-project.exe
+D:\Bethel Tech\csharp-course\final-project\bin\Debug\net6.0\final-project.deps.json
+D:\Bethel Tech\csharp-course\final-project\bin\Debug\net6.0\final-project.runtimeconfig.json
+D:\Bethel Tech\csharp-course\final-project\bin\Debug\net6.0\final-project.dll
+D:\Bethel Tech\csharp-course\final-project\bin\Debug\net6.0\final-project.pdb
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\final-project.dll
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\refint\final-project.dll
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\final-project.pdb
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\final-project.genruntimeconfig.cache
+D:\Bethel Tech\csharp-course\final-project\obj\Debug\net6.0\ref\final-project.dll
